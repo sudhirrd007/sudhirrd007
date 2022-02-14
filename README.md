@@ -1,3 +1,12 @@
+![sss](ML_Resume.pdf)
+
+<object data="https://github.com/sudhirrd007/sudhirrd007/blob/main/ML_Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/sudhirrd007/sudhirrd007/blob/main/ML_Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 # **Sudhir Dhameliya**
 
 *LinkedIn:* [www.linkedin.com/in/sudhir-dhameliya-797959134](http://www.linkedin.com/in/sudhir-dhameliya-797959134)
