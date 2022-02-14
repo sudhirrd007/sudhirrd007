@@ -1,5 +1,3 @@
-![Shape1](RackMultipart20220214-4-7v0rj9_html_e1059cf42430e45a.gif)
-
 # **Sudhir Dhameliya**
 
 Waterloo, Ontario | [sdhameliya5634@conestogac.on.ca](mailto:sdhameliya5634@conestogac.on.ca) | +1 226 899 0308
@@ -47,10 +45,6 @@ _Team Lead_ | 4 Members
 - It aims to develop an e-commerce IOS application for students and professors at Conestoga college.
 - Worked successfully with Core Data and Firebase to handle real-time data.
 - Received the highest grade in the class.
-
-# **Sudhir Dhameliya**
-
-Waterloo, Ontario | [sdhameliya5634@conestogac.on.ca](mailto:sdhameliya5634@conestogac.on.ca) | +1 226 899 0308
 
 **Amazon Fine Food Reviews**
 
