@@ -1,10 +1,14 @@
 # **Sudhir Dhameliya**
 
-**LinkedIn:** [www.linkedin.com/in/sudhir-dhameliya-797959134](http://www.linkedin.com/in/sudhir-dhameliya-797959134)
+*LinkedIn:* [www.linkedin.com/in/sudhir-dhameliya-797959134](http://www.linkedin.com/in/sudhir-dhameliya-797959134)
 
-**Kaggle**** :**[www.kaggle.com/sudhirrd007](https://www.kaggle.com/sudhirrd007)
+*Kaggle*:[www.kaggle.com/sudhirrd007](https://www.kaggle.com/sudhirrd007)
+
+<br>
 
 To strive for excellence in the field of **Machine Learning, Data Analytics, and Software Development** where my skills can be utilized for creating high-quality IT solutions in a co-op position.
+
+<br>
 
 **SKILLS**
 
@@ -18,6 +22,8 @@ To strive for excellence in the field of **Machine Learning, Data Analytics, and
 
 **Miscellaneous** : Android, .NET, XML, Git, Adobe XD, Linux, Machine Learning, Data Analysis, Selenium, Web Scrapping, Mathematics, Statistics.
 
+
+<br>
 **EXPERIENCE**
 
 Platinum Infotech Pvt Limited | _ **Python Developer Intern** __Gujarat, India_ | **May 2020 – July 2020**
@@ -31,6 +37,8 @@ Silver Tech Limited| _ **Android Developer Intern** __Gujarat, India_ | **Septem
 - Understood Workflow of Android Application.
 - Awarded for outstanding performance.
 
+
+<br>
 **PROJECTS**
 
 **eConstore**
@@ -68,6 +76,8 @@ _Team Lead_| 3 Members
 - Python libraries used include Pandas, NumPy, Seaborn, and Plotly.
 - Data Cleaning, Data Transformation, and KNN Algorithm.
 
+
+<br>
 **EDUCATION**
 
 **Postgraduate in Mobile Solutions Development (Co-op) Program September 2020 - Present**
