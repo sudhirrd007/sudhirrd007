@@ -1,11 +1,6 @@
 # **Sudhir Dhameliya**
 
-Waterloo, Ontario | [sdhameliya5634@conestogac.on.ca](mailto:sdhameliya5634@conestogac.on.ca) | +1 226 899 0308
-
-
 **LinkedIn:** [www.linkedin.com/in/sudhir-dhameliya-797959134](http://www.linkedin.com/in/sudhir-dhameliya-797959134)
-
-**GitHub :** [github.com/sudhirrd007](https://github.com/sudhirrd007)
 
 **Kaggle**** :**[www.kaggle.com/sudhirrd007](https://www.kaggle.com/sudhirrd007)
 
